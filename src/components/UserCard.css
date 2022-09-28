@@ -1,0 +1,32 @@
+.card{
+  background: linear-gradient(to bottom, rgba(254, 254, 254, 0.463) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+  background-blend-mode: multiply,multiply;
+	border-radius: 20px;
+	overflow: hidden;
+  margin: auto;
+  padding: 30px 10px;
+	height: 400px;
+	width: 300px;
+}
+.user-image{
+  height: 200px;
+  border-radius: 20px;
+}
+.all-texts{
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.user-name{
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.user-email{
+  font-size: 12px;
+}
+
+.user-id{
+
+  font-size: 12px;
+}
